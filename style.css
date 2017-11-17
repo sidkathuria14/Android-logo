@@ -1,0 +1,120 @@
+.body { 
+	margin-top: 10px;
+	width: 300px;
+	height: 280px;
+/*border:solid 5px #A4C639 ;*/
+    margin-left: 500px;
+    background: #A4C639;
+    border-radius: 0 0 40px 40px;
+ }
+
+ .container{
+float: left;
+ }
+
+.leg1{
+	float: left;
+	margin-top: 0px;
+	height:100px;
+	margin-left: 570px;
+	width: 50px;
+	border-radius: 0 0 30px 30px;
+    background: #A4C639;
+    float: left;
+}
+
+.leg2{
+	float: left;
+	margin-top: 0px;
+	height:100px;
+	margin-left: 65px;
+	width: 50px;
+	border-radius: 0 0 30px 30px;
+	/*padding: 50px;*/
+	background: #A4C639;
+}
+.arm1{
+	float: left;
+	margin-top: -280px;
+    margin-left: 74px;
+	height:220px;
+	width: 60px;
+	border-radius: 40px 40px 40px 40px;
+	/*padding: 50px;*/
+	background: #A4C639;	
+}
+.arm2{
+
+	margin-top: -280px;
+    margin-left: 430px;
+	height:220px;
+	width: 60px;
+	border-radius: 40px 40px 40px 40px;
+	/*padding: 50px;*/
+	background: #A4C639;	
+}
+.head{
+	border-radius: 150px 150px 0px 0px;
+	background: #A4C639;
+	width: 300px;
+	height: 120px;
+	margin: auto;
+	margin-top: 120px;
+}
+.eye1{
+	height: 20px;
+	width: 20px;
+	border-radius: 20px 20px 20px 20px;
+	background: white;
+	margin-left:  560px;
+	margin-top: -290px;
+}
+.eye2{
+    height: 20px;
+	width: 20px;
+	border-radius: 20px 20px 20px 20px;
+	background: white;
+	margin-left:  710px;
+	margin-top: -20px;
+}
+.antenna1{
+/*width: 112px;
+        height: 47px;
+        border-bottom: 1px black;
+-webkit-transform:
+            translateY(20px)
+            translateX(5px)
+            rotate(-45deg);
+            position: absolute;
+        top: -33px;
+        left: -13px;*/
+        height: 90px;
+        width: 10px;
+        margin-top: -150px;
+        margin-left: 570px;
+        border-radius: 10px 10px 0px 0px;
+        background: #A4C639;
+        transform: rotate(-20deg);
+}
+.antenna2{
+/*width: 112px;
+        height: 47px;
+        border-bottom: 1px black;
+-webkit-transform:
+            translateY(20px)
+            translateX(5px)
+            rotate(-45deg);
+            position: absolute;
+        top: -33px;
+        left: -13px;*/
+        height: 90px;
+        width: 10px;
+        margin-top: -95px;
+        margin-left: 700px;
+        border-radius: 10px 10px 0px 0px;
+        background: #A4C639;
+        transform: rotate(20deg);
+}
+.androidlogo{
+	max-width: 10000px;
+}
